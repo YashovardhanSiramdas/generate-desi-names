@@ -21,7 +21,8 @@
 				"./node_modules/*",
 				"./src/types/*"
 			]
-		}
+		},
+		"declaration": true
 	},
 	"include": [
 		"src"
