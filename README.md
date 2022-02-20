@@ -1,1 +1,1 @@
-# genrate-desi-names
+# generate-desi-names
