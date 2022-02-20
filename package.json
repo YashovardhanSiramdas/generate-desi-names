@@ -1,6 +1,6 @@
 {
   "name": "generate-desi-names",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/app.js",
   "types": "dist/app.d.ts",
