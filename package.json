@@ -1,7 +1,7 @@
 {
   "name": "generate-desi-names",
   "version": "1.0.3",
-  "description": "",
+  "description": "An easy to use package to generate Indian names",
   "main": "dist/app",
   "typings": "dist/app",
   "scripts": {
